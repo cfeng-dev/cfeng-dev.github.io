@@ -11,9 +11,9 @@ I am from Taiwan and currently studying Electrical Engineering at [HTWG Konstanz
 
 ## Education
 
-![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="50px"}
-**HTWG Konstanz**
-Bachelor of Engineering - Electrical Engineering and Information Technology
+![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"}
+**HTWG Konstanz**  
+Bachelor of Engineering - Electrical Engineering and Information Technology  
 2019 - 2024
 
 # Getting started
