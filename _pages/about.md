@@ -54,7 +54,11 @@ Oct 2024 - Feb 2026 (expected)
 Bachelor of Engineering - Electrical Engineering and Information Technology  
 Oct 2019 - Aug 2024
 
-This is the first paragraph.<br><br>
+This is the first paragraph.
+
+This is the second paragraph.
+
+This is the first paragraph.<br><br><br><br>
 This is the second paragraph.
 
 This is the first paragraph.
