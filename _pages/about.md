@@ -21,8 +21,8 @@ May 2024 – Jul 2024 | Konstanz, Germany
 -   Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy
 -   Implemented a neural network using PyTorch to predict power consumption in iron casting
 -   Developed an algorithm that reduced electricity costs in production by an average of 5.48%
--   **Skills:** Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
-    <br/>
+-   **Skills:** Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing  
+    <br><br>
 
 ![HTWG Logo](/images/htwg.png){: .align-left width="70px"} **Programming Tutor for C**  
 **HTWG Konstanz**  
@@ -40,7 +40,8 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 -   Developed software and electrical applications for heat pump systems
 -   Optimized Modbus scripts using JavaScript by modularization, resulting in a 66% reduction in query time and a 73% reduction in component configuration time compared to the previous tool
 -   Created over 20 unit tests with Jest for a heat pump configurator to ensure quality assurance
--   **Skills:** JavaScript, Modbus, JSON, XML, Modularity, Unit Testing, Jest, Git
+-   **Skills:** JavaScript, Modbus, JSON, XML, Modularity, Unit Testing, Jest, Git  
+    <br><br>
 
 ---
 
@@ -67,6 +68,5 @@ This is the first paragraph.
 
 This is the second paragraph.
 
-<p style="margin-bottom: 20px;">This is the first paragraph.</p>
-
+<p style="margin-bottom: 50px;">This is the first paragraph.</p>
 <p>This is the second paragraph.</p>
