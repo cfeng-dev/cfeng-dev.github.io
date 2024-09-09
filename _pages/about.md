@@ -22,7 +22,7 @@ May 2024 – Jul 2024 | Konstanz, Germany
 -   Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy
 -   Implemented a neural network using PyTorch to predict power consumption in iron casting
 -   Developed an algorithm that reduced electricity costs in production by an average of 5.48%
--   **Skills:** Python \ | Pandas \ | NumPy \ | Matplotlib \ | Scikit-learn \ | PyTorch \ | XGBoost \ | Machine Learning \ | Data Processing
+-   **Skills:** Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
 
 ![HTWG Logo](/images/htwg.png){: .align-left width="70px"}
 **Programming Tutor for C**  
@@ -31,7 +31,7 @@ Oct 2023 – Jan 2024 | Konstanz, Germany
 
 -   Supported and mentored over 15 students in learning C programming language
 -   Assisted the professor with exam preparation, administration, grading, and feedback
--   **Skills:** C Programming \ | Tutoring
+-   **Skills:** C Programming, Tutoring
 
 ![Hoval Logo](/images/hoval.png){: .align-left width="70px"}
 **Software Development Intern**  
@@ -41,7 +41,7 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 -   Developed software and electrical applications for heat pump systems
 -   Optimized Modbus scripts using JavaScript by modularization, resulting in a 66% reduction in query time and a 73% reduction in component configuration time compared to the previous tool
 -   Created over 20 unit tests with Jest for a heat pump configurator to ensure quality assurance
-    > **Skills:** JavaScript \ | Modbus \ | JSON \ | XML \ | Modularity \ | Unit Testing \ | Jest, Git
+-   **Skills:** JavaScript, Modbus, JSON, XML, Modularity, Unit Testing, Jest, Git
 
 ---
 
@@ -49,10 +49,10 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 
 ![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"}
 **HTWG Konstanz**  
-Master of Engineering - Electrical Systems
+Master of Engineering - Electrical Systems  
 Oct 2024 - Feb 2026 (expected)
 
 ![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"}
 **HTWG Konstanz**  
-Bachelor of Engineering - Electrical Engineering and Information Technology
+Bachelor of Engineering - Electrical Engineering and Information Technology  
 Oct 2019 - Aug 2024
