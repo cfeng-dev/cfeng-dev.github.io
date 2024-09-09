@@ -13,8 +13,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 # Experience
 
-![HTWG Logo](/images/htwg.png){: .align-left width="70px"}
-**Bachelor's Thesis in Time Series Analysis**  
+![HTWG Logo](/images/htwg.png){: .align-left width="70px"} **Bachelor's Thesis in Time Series Analysis**  
 **HTWG Konstanz**  
 May 2024 – Jul 2024 | Konstanz, Germany
 
@@ -23,18 +22,18 @@ May 2024 – Jul 2024 | Konstanz, Germany
 -   Implemented a neural network using PyTorch to predict power consumption in iron casting
 -   Developed an algorithm that reduced electricity costs in production by an average of 5.48%
 -   **Skills:** Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
+    <br/>
 
-![HTWG Logo](/images/htwg.png){: .align-left width="70px"}
-**Programming Tutor for C**  
+![HTWG Logo](/images/htwg.png){: .align-left width="70px"} **Programming Tutor for C**  
 **HTWG Konstanz**  
 Oct 2023 – Jan 2024 | Konstanz, Germany
 
 -   Supported and mentored over 15 students in learning C programming language
 -   Assisted the professor with exam preparation, administration, grading, and feedback
 -   **Skills:** C Programming, Tutoring
+    <br><br>
 
-![Hoval Logo](/images/hoval.png){: .align-left width="70px"}
-**Software Development Intern**  
+![Hoval Logo](/images/hoval.png){: .align-left width="70px"} **Software Development Intern**  
 **Hoval**  
 Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 
@@ -47,12 +46,23 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 
 # Education
 
-![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"}
-**HTWG Konstanz**  
+![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"} **HTWG Konstanz**  
 Master of Engineering - Electrical Systems  
 Oct 2024 - Feb 2026 (expected)
 
-![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"}
-**HTWG Konstanz**  
+![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"} **HTWG Konstanz**  
 Bachelor of Engineering - Electrical Engineering and Information Technology  
 Oct 2019 - Aug 2024
+
+This is the first paragraph.<br><br>
+This is the second paragraph.
+
+This is the first paragraph.
+
+---
+
+This is the second paragraph.
+
+<p style="margin-bottom: 20px;">This is the first paragraph.</p>
+
+<p>This is the second paragraph.</p>
