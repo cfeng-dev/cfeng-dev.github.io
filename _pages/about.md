@@ -33,7 +33,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Programming Tutor for C</strong><br>
-    HTWG Konstanz<br>
+    <a href="https://www.htwg-konstanz.de" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
     <span style="font-size: 0.9em; color: gray;">Oct 2023 – Jan 2024 | Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
       <li><span style="position: relative; left: -5px;">Supported and mentored over 15 students in learning C programming language</span></li>
