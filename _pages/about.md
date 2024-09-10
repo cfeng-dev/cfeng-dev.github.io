@@ -59,10 +59,18 @@ Oct 2019 - Aug 2024
 
 **Bachelor's Thesis in Time Series Analysis**  
 **HTWG Konstanz**  
-<span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>  
-May 2024 – Jul 2024 | Konstanz, Germany
+<span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
 
 <div style="display: flex; align-items: center;">
+  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;"/>
+  <div>
+    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
+    <strong>HTWG Konstanz</strong><br>
+    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;"/>
   <div>
     <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
