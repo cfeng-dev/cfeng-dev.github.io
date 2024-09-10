@@ -61,12 +61,12 @@ Oct 2019 - Aug 2024
     <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
     HTWG Konstanz<br>
     <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
-    <ul style="margin-top: 20px; padding-left: 0; list-style-position: inside;">
+    <ul style="margin-top: 20px; padding-left: 0; list-style-position: inside; line-height: 1.4;">
       <li>Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</li>
       <li>Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</li>
       <li>Implemented a neural network using PyTorch to predict power consumption in iron casting</li>
       <li>Developed an algorithm that reduced electricity costs in production by an average of 5.48%</li>
     </ul>
-    <strong>Skills:</strong> Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
+    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Machine Learning · Data Processing
   </div>
 </div>
