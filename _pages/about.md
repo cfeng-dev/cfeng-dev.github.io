@@ -62,10 +62,10 @@ Oct 2019 - Aug 2024
     HTWG Konstanz<br>
     <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
-      <li><span style="position: relative; left: -10px;">Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</span></li>
-      <li><span style="position: relative; left: -10px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
-      <li><span style="position: relative; left: -10px;">Implemented a neural network using PyTorch to predict power consumption in iron casting</span></li>
-      <li><span style="position: relative; left: -10px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
+      <li><span style="position: relative; left: -20px;">Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</span></li>
+      <li><span style="position: relative; left: -20px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
+      <li><span style="position: relative; left: -20px;">Implemented a neural network using PyTorch to predict power consumption in iron casting</span></li>
+      <li><span style="position: relative; left: -20px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
     </ul>
     <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Machine Learning · Data Processing
   </div>
