@@ -54,8 +54,8 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
     Master of Engineering - Electrical Systems<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
   </div>
-</div><br>
-
+</div>
+<br>
 <div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
@@ -63,8 +63,8 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
     Bachelor of Engineering - Electrical Engineering and Information Technology <br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
   </div>
-</div><br>
-
+</div>
+<br>
 <div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
@@ -77,8 +77,6 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
       <li><span style="position: relative; left: -5px;">Implemented a neural network using PyTorch to predict power consumption in iron casting</span></li>
       <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
     </ul>
-    <div style="width: 600px;">
-      <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn ·<br>Machine Learning · Data Processing
-    </div>
+    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Machine Learning · Data Processing
   </div>
 </div>
