@@ -13,6 +13,8 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 # Experience
 
+<br><br>
+
 ![HTWG Logo](/images/htwg.png){: .align-left width="70px"} **Bachelor's Thesis in Time Series Analysis**  
 **HTWG Konstanz**  
 May 2024 – Jul 2024 | Konstanz, Germany
@@ -47,6 +49,8 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 
 # Education
 
+<br><br>
+
 ![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"} **HTWG Konstanz**  
 Master of Engineering - Electrical Systems  
 Oct 2024 - Feb 2026 (expected)
@@ -55,18 +59,11 @@ Oct 2024 - Feb 2026 (expected)
 Bachelor of Engineering - Electrical Engineering and Information Technology  
 Oct 2019 - Aug 2024
 
-This is the first paragraph.
-
-This is the second paragraph.
-
-This is the first paragraph.<br><br><br><br>
-This is the second paragraph.
-
-This is the first paragraph.
-
----
-
-This is the second paragraph.
-
-<p style="margin-bottom: 50px;">This is the first paragraph.</p>
-<p>This is the second paragraph.</p>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
+  <div>
+    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
+    <strong>HTWG Konstanz</strong><br>
+    May 2024 – Jul 2024 | Konstanz, Germany
+  </div>
+</div>
