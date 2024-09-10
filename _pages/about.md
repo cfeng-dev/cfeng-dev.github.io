@@ -47,13 +47,23 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 
 # Education<br>
 
-![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"} **HTWG Konstanz**  
-Master of Engineering - Electrical Systems  
-Oct 2024 - Feb 2026 (expected)
+<div style="display: flex; align-items: flex-start;">
+  <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
+  <div>
+    <strong>HTWG Konstanz</strong><br>
+    Master of Engineering - Electrical Systems<br>
+    <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
+  </div>
+</div>
 
-![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"} **HTWG Konstanz**  
-Bachelor of Engineering - Electrical Engineering and Information Technology  
-Oct 2019 - Aug 2024
+<div style="display: flex; align-items: flex-start;">
+  <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
+  <div>
+    <strong>HTWG Konstanz</strong><br>
+    Bachelor of Engineering - Electrical Engineering and Information Technology <br>
+    <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
