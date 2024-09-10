@@ -13,7 +13,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 # Experience
 
-<br><br>
+<br>
 
 ![HTWG Logo](/images/htwg.png){: .align-left width="70px"} **Bachelor's Thesis in Time Series Analysis**  
 **HTWG Konstanz**  
@@ -43,13 +43,13 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 -   Optimized Modbus scripts using JavaScript by modularization, resulting in a 66% reduction in query time and a 73% reduction in component configuration time compared to the previous tool
 -   Created over 20 unit tests with Jest for a heat pump configurator to ensure quality assurance
 -   **Skills:** JavaScript, Modbus, JSON, XML, Modularity, Unit Testing, Jest, Git  
-    <br><br>
+    <br>
 
 ---
 
 # Education
 
-<br><br>
+<br>
 
 ![HTWG EI Logo](/images/htwg_ei.png){: .align-left width="70px"} **HTWG Konstanz**  
 Master of Engineering - Electrical Systems  
@@ -59,11 +59,8 @@ Oct 2024 - Feb 2026 (expected)
 Bachelor of Engineering - Electrical Engineering and Information Technology  
 Oct 2019 - Aug 2024
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
-    <strong>HTWG Konstanz</strong><br>
-    May 2024 – Jul 2024 | Konstanz, Germany
-  </div>
-</div>
+<img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; float: left; margin-right: 10px;"/>
+
+**Bachelor's Thesis in Time Series Analysis**  
+**HTWG Konstanz**  
+May 2024 – Jul 2024 | Konstanz, Germany
