@@ -55,21 +55,6 @@ Oct 2024 - Feb 2026 (expected)
 Bachelor of Engineering - Electrical Engineering and Information Technology  
 Oct 2019 - Aug 2024
 
-<img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; float: left; margin-right: 10px;"/>
-
-**Bachelor's Thesis in Time Series Analysis**  
-**HTWG Konstanz**  
-<span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
-
-<div style="display: flex; align-items: center;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;"/>
-  <div>
-    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
-    <strong>HTWG Konstanz</strong><br>
-    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
-  </div>
-</div><br>
-
 <div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;"/>
   <div>
@@ -84,3 +69,19 @@ Oct 2019 - Aug 2024
 -   Implemented a neural network using PyTorch to predict power consumption in iron casting
 -   Developed an algorithm that reduced electricity costs in production by an average of 5.48%
 -   **Skills:** Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
+  <div>
+    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
+    HTWG Konstanz<br>
+    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
+    <ul style="margin-top: 10px; padding-left: 0;">
+      <li>Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</li>
+      <li>Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</li>
+      <li>Implemented a neural network using PyTorch to predict power consumption in iron casting</li>
+      <li>Developed an algorithm that reduced electricity costs in production by an average of 5.48%</li>
+    </ul>
+    <strong>Skills:</strong> Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
+  </div>
+</div>
