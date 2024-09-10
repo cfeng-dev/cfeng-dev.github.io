@@ -47,7 +47,7 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
 
 # Education<br><br>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>HTWG Konstanz</strong><br>
@@ -55,8 +55,8 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
     <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
   </div>
 </div>
-<br>
-<div style="display: flex; align-items: flex-start;">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>HTWG Konstanz</strong><br>
@@ -64,7 +64,7 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
   </div>
 </div>
-<br>
+
 <div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
@@ -75,7 +75,7 @@ Sep 2022 – Feb 2023 | Vaduz, Liechtenstein
       <li><span style="position: relative; left: -5px;">Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</span></li>
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
       <li><span style="position: relative; left: -5px;">Implemented a neural network using PyTorch to predict power consumption in iron casting</span></li>
-      <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
+      <li><span style="position: relative;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
     </ul>
     <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Machine Learning · Data Processing
   </div>
