@@ -56,27 +56,12 @@ Bachelor of Engineering - Electrical Engineering and Information Technology
 Oct 2019 - Aug 2024
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;"/>
-  <div>
-    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
-    HTWG Konstanz<br>
-    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
-  </div>
-</div>
-
--   Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)
--   Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy
--   Implemented a neural network using PyTorch to predict power consumption in iron casting
--   Developed an algorithm that reduced electricity costs in production by an average of 5.48%
--   **Skills:** Python, PyTorch, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Data Processing
-
-<div style="display: flex; align-items: flex-start;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
     HTWG Konstanz<br>
     <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
-    <ul style="margin-top: 20px; padding-left: 2;">
+    <ul style="margin-top: 20px; padding-left: 20p;">
       <li>Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</li>
       <li>Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</li>
       <li>Implemented a neural network using PyTorch to predict power consumption in iron casting</li>
