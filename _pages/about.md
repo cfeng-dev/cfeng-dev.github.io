@@ -11,7 +11,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 ---
 
-<div style="margin-bottom: 20px; font-size: 18px; font-weight: bold;">Experience</div>
+<div style="margin-bottom: 20px; font-size: 24px; font-weight: bold;">Experience</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
@@ -63,7 +63,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 ---
 
-<div style="margin-bottom: 20px; font-size: 18px; font-weight: bold;">Education</div>
+<div style="margin-bottom: 20px; font-size: 24px; font-weight: bold;">Education</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
@@ -77,36 +77,13 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" 
+       style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out; line-height: 1.1;" 
+       onmouseover="this.style.borderBottom='1px solid black'" 
+       onmouseout="this.style.borderBottom='none'">
+       HTWG Konstanz
+    </a><br>
     Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
-  </div>
-</div>
-
-<div style="margin-bottom: 40px; font-family: Arial, sans-serif;">
-  <div style="margin-bottom: 20px;">
-    <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; vertical-align: middle; margin-right: 10px;" />
-    <strong style="font-size: 16px;">Bachelor's Thesis in Time Series Analysis</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; font-size: 16px;">HTWG Konstanz</a><br>
-    <span style="color: gray; font-size: 14px;">May 2024 – Jul 2024 | Konstanz, Germany</span>
-    <ul style="list-style-type: disc; margin-top: 10px; padding-left: 40px;">
-      <li>Modeled the electricity consumption using Python, ARIMA, LSTM, and XGBoost</li>
-      <li>Processed data with Pandas and NumPy, reducing training time by 40%</li>
-      <li>Implemented a neural network with PyTorch for power prediction in iron casting</li>
-      <li>Developed an algorithm reducing costs in production by 5.48%</li>
-    </ul>
-    <strong>Skills:</strong> Python, PyTorch, XGBoost, Pandas, NumPy, Scikit-learn, Machine Learning
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; vertical-align: middle; margin-right: 10px;" />
-    <strong style="font-size: 16px;">Programming Tutor</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; font-size: 16px;">HTWG Konstanz</a><br>
-    <span style="color: gray; font-size: 14px;">Oct 2023 – Jan 2024 | Konstanz, Germany</span>
-    <ul style="list-style-type: disc; margin-top: 10px; padding-left: 40px;">
-      <li>Supported over 15 students in learning C programming language</li>
-      <li>Assisted with exam preparation and grading</li>
-    </ul>
-    <strong>Skills:</strong> C Programming, Tutoring
   </div>
 </div>
