@@ -78,10 +78,10 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <a href="https://www.htwg-konstanz.de/en/" target="_blank" 
-       style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out; line-height: 1.1;" 
-       onmouseover="this.style.borderBottom='1px solid black'" 
-       onmouseout="this.style.borderBottom='none'">
-       HTWG Konstanz
+    style="text-decoration: none; color: black; border-bottom: 1px solid transparent; transition: border-bottom-color 0.3s ease-in-out; padding-bottom: 1px;" 
+    onmouseover="this.style.borderBottomColor='black'" 
+    onmouseout="this.style.borderBottomColor='transparent'">
+    HTWG Konstanz
     </a><br>
     Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
