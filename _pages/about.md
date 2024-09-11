@@ -11,7 +11,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 ---
 
-<div style="margin-bottom: 20px; font-size: 24px; font-weight: bold;">Experience</div>
+<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Experience</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
@@ -23,8 +23,8 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
       <li><span style="position: relative; left: -5px;">Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</span></li>
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
-      <li><span style="position: relative; left: -5px;">Implemented a neural network using PyTorch to predict power consumption in iron casting</span></li>
       <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
+      <li><span style="position: relative; left: -5px;">Implemented a neural network using PyTorch and a decision tree model with XGBoost to predict the electricity consumption of a forming facility at Fondium, a manufacturer of iron castings located in Singen, Germany</span></li>
     </ul>
     <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Machine Learning · Data Processing
   </div>
@@ -63,7 +63,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 ---
 
-<div style="margin-bottom: 20px; font-size: 24px; font-weight: bold;">Education</div>
+<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Education</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
@@ -77,12 +77,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" 
-    style="text-decoration: none; color: black; border-bottom: 1px solid transparent; transition: border-bottom-color 0.3s ease-in-out; padding-bottom: 1px;" 
-    onmouseover="this.style.borderBottomColor='black'" 
-    onmouseout="this.style.borderBottomColor='transparent'">
-    HTWG Konstanz
-    </a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
     Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
   </div>
