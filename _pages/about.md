@@ -11,14 +11,15 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 ---
 
-# Experience<br><br>
+<div style="margin-bottom: 20px; font-size: 18px; font-weight: bold;">Experience</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
     <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
-    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024 | Konstanz, Germany</span>
+    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024</span><br>
+    <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
       <li><span style="position: relative; left: -5px;">Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</span></li>
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
@@ -32,9 +33,10 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <strong>Programming Tutor for C</strong><br>
+    <strong>Programming Tutor</strong><br>
     <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
-    <span style="font-size: 0.9em; color: gray;">Oct 2023 – Jan 2024 | Konstanz, Germany</span>
+    <span style="font-size: 0.9em; color: gray;">Oct 2023 – Jan 2024</span><br>
+    <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
       <li><span style="position: relative; left: -5px;">Supported and mentored over 15 students in learning C programming language</span></li>
       <li><span style="position: relative; left: -5px;">Assisted the professor with exam preparation, administration, grading, and feedback</span></li>
@@ -48,7 +50,8 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <div>
     <strong>Software Development Intern</strong><br>
     <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
-    <span style="font-size: 0.9em; color: gray;">Sep 2022 – Feb 2023 | Vaduz, Liechtenstein</span>
+    <span style="font-size: 0.9em; color: gray;">Sep 2022 – Feb 2023</span><br>
+    <span style="font-size: 0.9em; color: gray;">Vaduz, Liechtenstein · On-site</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
       <li><span style="position: relative; left: -5px;">Developed software and electrical applications for heat pump systems</span></li>
       <li><span style="position: relative; left: -5px;">Optimized Modbus scripts using JavaScript by modularization, resulting in a 66% reduction in query time and a 73% reduction in component configuration time compared to the previous tool</span></li>
@@ -60,13 +63,13 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 
 ---
 
-# Education<br><br>
+<div style="margin-bottom: 20px; font-size: 18px; font-weight: bold;">Education</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
-    Master of Engineering - Electrical Systems<br>
+    Master of Engineering - Electrical Systems (EIM)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
   </div>
 </div>
@@ -75,7 +78,35 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='0.1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
-    Bachelor of Engineering - Electrical Engineering and Information Technology <br>
+    Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px; font-family: Arial, sans-serif;">
+  <div style="margin-bottom: 20px;">
+    <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; vertical-align: middle; margin-right: 10px;" />
+    <strong style="font-size: 16px;">Bachelor's Thesis in Time Series Analysis</strong><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; font-size: 16px;">HTWG Konstanz</a><br>
+    <span style="color: gray; font-size: 14px;">May 2024 – Jul 2024 | Konstanz, Germany</span>
+    <ul style="list-style-type: disc; margin-top: 10px; padding-left: 40px;">
+      <li>Modeled the electricity consumption using Python, ARIMA, LSTM, and XGBoost</li>
+      <li>Processed data with Pandas and NumPy, reducing training time by 40%</li>
+      <li>Implemented a neural network with PyTorch for power prediction in iron casting</li>
+      <li>Developed an algorithm reducing costs in production by 5.48%</li>
+    </ul>
+    <strong>Skills:</strong> Python, PyTorch, XGBoost, Pandas, NumPy, Scikit-learn, Machine Learning
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; vertical-align: middle; margin-right: 10px;" />
+    <strong style="font-size: 16px;">Programming Tutor</strong><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; font-size: 16px;">HTWG Konstanz</a><br>
+    <span style="color: gray; font-size: 14px;">Oct 2023 – Jan 2024 | Konstanz, Germany</span>
+    <ul style="list-style-type: disc; margin-top: 10px; padding-left: 40px;">
+      <li>Supported over 15 students in learning C programming language</li>
+      <li>Assisted with exam preparation and grading</li>
+    </ul>
+    <strong>Skills:</strong> C Programming, Tutoring
   </div>
 </div>
