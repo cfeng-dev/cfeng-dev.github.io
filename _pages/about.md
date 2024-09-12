@@ -17,7 +17,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='2px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
     <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024</span><br>
     <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
@@ -34,7 +34,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Programming Tutor</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='2px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
     <span style="font-size: 0.9em; color: gray;">Oct 2023 – Jan 2024</span><br>
     <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
@@ -49,7 +49,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/hoval.png" alt="Hoval Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Software Development Intern</strong><br>
-    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='2px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
+    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
     <span style="font-size: 0.9em; color: gray;">Sep 2022 – Feb 2023</span><br>
     <span style="font-size: 0.9em; color: gray;">Vaduz, Liechtenstein · On-site</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
@@ -68,7 +68,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='2pxpx solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
     Master of Engineering - Electrical Systems (EIM)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
   </div>
@@ -77,7 +77,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='2px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
     Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
   </div>
@@ -91,7 +91,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/hoval.png" alt="Hoval Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Internship certificate</strong><br>
-    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='2px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
+    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
     <span style="font-size: 0.9em; color: gray;">Issued Feb 2023 · No Expiration Date</span><br>
     <a href="/files/Internship_certificate_hoval.pdf" target="_blank" style="text-decoration: underline; color: blue;">See Credential</a><br>
   </div>
