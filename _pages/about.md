@@ -91,7 +91,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/hoval.png" alt="Hoval Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Internship certificate</strong><br>
-    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
+    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
     <span style="font-size: 0.9em; color: gray;">Issued Feb 2023 · No Expiration Date</span><br>
     <a href="/files/Internship_certificate_hoval.pdf" target="_blank" style="text-decoration: underline; color: blue;">See Credential</a><br>
   </div>
