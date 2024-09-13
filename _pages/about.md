@@ -17,11 +17,11 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
     <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024</span><br>
     <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
-      <li><span style="position: relative; left: -5px;">Implemented a neural network (LSTM via PyTorch), a decision tree model (XGBoost), and a statistical model (ARIMA) to forecast electricity consumption at Fondium's forming facility in Singen</span></li>
+      <li><span style="position: relative; left: -5px;">Implemented a neural network (LSTM using PyTorch), a decision tree model (XGBoost), and a statistical model (ARIMA) to forecast electricity consumption at Fondium's forming facility in Singen, Germany</span></li>
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
       <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
     </ul>
@@ -33,7 +33,7 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
   <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
     <strong>Programming Tutor</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
     <span style="font-size: 0.9em; color: gray;">Oct 2023 – Jan 2024</span><br>
     <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
@@ -65,18 +65,18 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
 <div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Education</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
+  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
     Master of Engineering - Electrical Systems (EIM)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/htwg_ei.png" alt="HTWG EI Logo" style="width: 70px; margin-right: 10px;" />
+  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
   <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Konstanz</a><br>
+    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
     Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
     <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
   </div>
