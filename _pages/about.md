@@ -21,12 +21,11 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
     <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024</span><br>
     <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
-      <li><span style="position: relative; left: -5px;">Modeled the electricity consumption of a forming facility using Python, applying statistical methods (ARIMA), deep learning techniques (LSTM), and machine learning algorithms (XGBoost)</span></li>
+      <li><span style="position: relative; left: -5px;">Implemented a neural network (LSTM via PyTorch), a decision tree model (XGBoost), and a statistical model (ARIMA) to forecast electricity consumption at Fondium's forming facility in Singen</span></li>
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
       <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
-      <li><span style="position: relative; left: -5px;">Implemented a neural network using PyTorch and a decision tree model with XGBoost to predict the electricity consumption of a forming facility at Fondium, a manufacturer of iron castings located in Singen, Germany</span></li>
     </ul>
-    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Machine Learning · Data Processing
+    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Statsmodels · Machine Learning · Deep Learning · Data Processing · Correlation Analysis · Hypothesis Testing
   </div>
 </div>
 
@@ -93,6 +92,6 @@ I am from Taiwan and currently pursuing a Master's degree in Electrical Engineer
     <strong>Internship certificate</strong><br>
     <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
     <span style="font-size: 0.9em; color: gray;">Issued Feb 2023 · No Expiration Date</span><br>
-    <a href="/files/Internship_certificate_hoval.pdf" target="_blank" style="text-decoration: underline; color: blue;">See Credential</a><br>
+    <a href="/files/Internship_certificate_hoval.pdf" target="_blank" style="text-decoration: underline; color: blue;">See credential</a><br>
   </div>
 </div>
