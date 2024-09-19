@@ -1,101 +1,16 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About"
 author_profile: true
 redirect_from:
     - /about/
     - /about.html
 ---
 
-I am from Taiwan and currently pursuing a Master's degree in Electrical Engineering at [HTWG Konstanz](https://www.htwg-konstanz.de/en/) in Germany. My interests lie in machine learning and embedded systems. I gained valuable experience during a software development internship at [Hoval](https://www.hoval.com/en/) in Liechtenstein, where I worked on applications for heat pump systems and improved efficiency of existing tools.
+I am from Taiwan and currently pursuing a Master's degree in Electrical Engineering at [HTWG Konstanz](https://www.htwg-konstanz.de/en/) in Germany. My primary interest lies in software development for electrical applications, complemented by a focus on machine learning and embedded systems.
+
+I gained valuable experience during a software development internship at [Hoval](https://www.hoval.com/en/) in Liechtenstein, where I worked on applications for heat pump systems and improved efficiency of existing tools. My contributions included optimizing scripts that significantly reduced the time needed for system configuration and testing. This internship enhanced my skills in software development methodologies and deepened my understanding of how software and hardware integrate in real-world applications.
 
 In a recent project, I implemented and compared three different models in Python for electricity consumption forecasting: a deep learning approach (LSTM), a machine learning method (XGBoost), and a statistical technique (ARIMA). The goal was to determine which model provides the best prediction accuracy with the shortest training time. This comparative study deepened my understanding of various forecasting and modeling techniques and their practical applications.
 
 As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring. We used Arduino as the main controller, implementing Modbus for sensor communication and MQTT for data transmission. This project aimed to optimize wind power applications, providing practical experience in applying embedded systems and IoT protocols to real-world challenges in the renewable energy sector.
-
----
-
-<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Experience</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <strong>Bachelor's Thesis in Time Series Analysis</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
-    <span style="font-size: 0.9em; color: gray;">May 2024 – Jul 2024</span><br>
-    <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
-    <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
-      <li><span style="position: relative; left: -5px;">Implemented a neural network (LSTM using PyTorch), a decision tree model (XGBoost), and a statistical model (ARIMA) to forecast electricity consumption at Fondium's forming facility in Singen, Germany</span></li>
-      <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
-      <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
-    </ul>
-    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Statsmodels · Machine Learning · Deep Learning · Data Processing · Correlation Analysis · Hypothesis Testing
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <strong>Programming Tutor</strong><br>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
-    <span style="font-size: 0.9em; color: gray;">Oct 2023 – Jan 2024</span><br>
-    <span style="font-size: 0.9em; color: gray;">Konstanz, Germany</span>
-    <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
-      <li><span style="position: relative; left: -5px;">Supported and mentored over 15 students in learning C programming language</span></li>
-      <li><span style="position: relative; left: -5px;">Assisted the professor with exam preparation, administration, grading, and feedback</span></li>
-    </ul>
-    <strong>Skills:</strong> C Programming · Tutoring
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/hoval.png" alt="Hoval Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <strong>Software Development Intern</strong><br>
-    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
-    <span style="font-size: 0.9em; color: gray;">Sep 2022 – Feb 2023</span><br>
-    <span style="font-size: 0.9em; color: gray;">Vaduz, Liechtenstein · On-site</span>
-    <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
-      <li><span style="position: relative; left: -5px;">Developed software and electrical applications for heat pump systems</span></li>
-      <li><span style="position: relative; left: -5px;">Optimized Modbus scripts using JavaScript by modularization, resulting in a 66% reduction in query time and a 73% reduction in component configuration time compared to the previous tool</span></li>
-      <li><span style="position: relative; left: -5px;">Created over 20 unit tests with Jest for a heat pump configurator to ensure quality assurance</span></li>
-    </ul>
-    <strong>Skills:</strong> JavaScript · Modbus · JSON · XML · Modularity · Unit Testing · Jest · Git  
-  </div>
-</div>
-
----
-
-<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Education</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
-    Master of Engineering - Electrical Systems (EIM)<br>
-    <span style="font-size: 0.9em; color: gray;">Oct 2024 - Feb 2026 (expected)</span>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/htwg.png" alt="HTWG Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <a href="https://www.htwg-konstanz.de/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">HTWG Hochschule Konstanz</a><br>
-    Bachelor of Engineering - Electrical Engineering and Information Technology (EIB)<br>
-    <span style="font-size: 0.9em; color: gray;">Oct 2019 - Aug 2024</span>
-  </div>
-</div>
-
----
-
-<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Licenses & certifications</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/hoval.png" alt="Hoval Logo" style="width: 70px; margin-right: 10px;" />
-  <div>
-    <strong>Internship certificate</strong><br>
-    <a href="https://www.hoval.com/en/" target="_blank" style="text-decoration: none; color: black; border-bottom: none; transition: border-bottom 0.3s ease-in-out;" onmouseover="this.style.borderBottom='1px solid black'" onmouseout="this.style.borderBottom='none'">Hoval</a><br>
-    <span style="font-size: 0.9em; color: gray;">Issued Feb 2023 · No Expiration Date</span><br>
-    <a href="/files/Internship_certificate_hoval.pdf" target="_blank" style="text-decoration: underline; color: blue;">See credential</a><br>
-  </div>
-</div>
