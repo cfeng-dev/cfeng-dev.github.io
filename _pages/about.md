@@ -15,4 +15,4 @@ In a recent project, I implemented and compared three different models in Python
 
 As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring to optimize wind power applications. We utilized Arduino as the main controller, integrating Modbus for sensor communication and MQTT for data transmission.
 
-These experiences have enhanced my skills in software development, deepened my understanding of machine learning techniques, and provided practical knowledge in applying embedded systems to real-world challenges in the electrical engineering field.
+Outside of academics, I enjoy playing basketball, gaming (especially Mario Kart and Zelda), and cooking Asian cuisine for my girlfriend.
