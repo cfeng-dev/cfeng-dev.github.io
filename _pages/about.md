@@ -7,12 +7,12 @@ redirect_from:
     - /about.html
 ---
 
-I am from Taiwan and currently pursuing a Master's degree in Electrical Engineering at [HTWG Konstanz](https://www.htwg-konstanz.de/en/) in Germany. My primary interest lies in **software development** for electrical applications, complemented by a focus on **machine learning** and **embedded systems**.
+I am from Taiwan and currently pursuing a Master's degree in Electrical Engineering at [HTWG Konstanz](https://www.htwg-konstanz.de/en/) in Germany. My primary interest lies in software development for electrical applications, complemented by a focus on machine learning and embedded systems.
 
-During a software development internship at [Hoval](https://www.hoval.com/en/) in Liechtenstein, I worked on applications for heat pump systems. I optimized scripts with JavaScript through modularization, reducing system configuration and testing time. I also wrote unit tests using Jest, enhancing the tool's reliability and maintainability.
+During a software development internship at [Hoval](https://www.hoval.com/en/) in Liechtenstein, I worked on a Modbus configurator for heat pump systems. I optimized scripts with JavaScript through modularization, reducing system configuration and testing time. I also wrote unit tests using Jest, enhancing the tool's reliability.
 
-In a recent project, I implemented and compared three different models in **Python** for electricity consumption forecasting: a deep learning approach (**LSTM**), a machine learning method (**XGBoost**), and a statistical technique (**ARIMA**). The goal was to determine which model provides the best prediction accuracy with the shortest training time.
+In a recent project, I implemented and compared three different models in Python for electricity consumption forecasting: a deep learning approach (LSTM), a machine learning method (XGBoost), and a statistical technique (ARIMA). The goal was to determine which model provides the best prediction accuracy with the shortest training time.
 
-As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring. We used **Arduino** as the main controller, implementing **Modbus** for sensor communication and **MQTT** for data transmission. This project aimed to optimize wind power applications.
+As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring. We used Arduino as the main controller, implementing Modbus for sensor communication and MQTT for data transmission. This IoT project aimed to optimize wind power applications.
 
 These experiences have enhanced my skills in software development, deepened my understanding of machine learning techniques, and provided practical knowledge in applying embedded systems to real-world challenges in the electrical engineering field.
