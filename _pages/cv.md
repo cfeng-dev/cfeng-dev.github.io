@@ -80,7 +80,7 @@ redirect_from:
 
 ---
 
-<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Licenses & certifications</div>
+<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Certifications</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/hoval.png" alt="Hoval Logo" style="width: 70px; margin-right: 10px;" />
