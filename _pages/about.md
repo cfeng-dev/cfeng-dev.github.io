@@ -15,4 +15,4 @@ In a recent project, I implemented and compared three different models in Python
 
 As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring to optimize wind power applications. We utilized Arduino as the main controller, integrating Modbus for sensor communication and MQTT for data transmission.
 
-Outside of academics, I enjoy playing basketball, gaming (especially Mario Kart and Zelda), and cooking Asian cuisine for my girlfriend.
+In my free time, I play basketball, enjoy video games like Mario Kart and Zelda, and cook Asian dishes.
