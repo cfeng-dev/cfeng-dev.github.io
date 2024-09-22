@@ -13,6 +13,6 @@ During a software development internship at [Hoval](https://www.hoval.com/en/) i
 
 In a recent project, I implemented and compared three different models in **Python** for electricity consumption forecasting: a deep learning approach (**LSTM**), a machine learning method (**XGBoost**), and a statistical technique (**ARIMA**). The goal was to determine which model provides the best prediction accuracy with the shortest training time.
 
-As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring to optimize wind power applications. We utilized **Arduino** as the main controller, integrating **Modbus RS485** for sensor communication and **MQTT** for data transmission.
+As part of a collaborative project during my studies, my fellow students and I developed an embedded system for real-time wind condition monitoring to optimize wind power applications. We utilized **Arduino** as the main controller, integrating **Modbus** for sensor communication and **MQTT** for data transmission.
 
 When not working, I can be found on the basketball court or in the kitchen, cooking spicy Asian specialties.
