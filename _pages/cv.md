@@ -7,6 +7,11 @@ redirect_from:
     - /resume
 ---
 
+<img src="/files/pdf_icon.png" alt="Download icon" style="vertical-align: middle; margin-right: 5px; width: 20px; height: 20px;"
+Download my <a href="/files/Resume_Chin-I_Feng.pdf" target="_blank" style="color: blue;">resume</a>
+
+---
+
 <div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Experience</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
