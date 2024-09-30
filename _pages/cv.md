@@ -21,7 +21,7 @@ redirect_from:
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
       <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
     </ul>
-    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Statsmodels · Machine Learning · Deep Learning · Data Processing · Correlation Analysis · Hypothesis Testing
+    <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Statsmodels · Machine Learning · Deep Learning · Data Processing · Correlation Analysis · Hypothesis Testing · Hyperparameter Tuning
   </div>
 </div>
 
