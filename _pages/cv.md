@@ -7,8 +7,7 @@ redirect_from:
     - /resume
 ---
 
-<img src="/files/download_icon.png" alt="Download icon" style="vertical-align: middle; margin-right: 3px; width: 20px; height: 20px;">
-Download my <a href="/files/Resume_Chin-I_Feng.pdf" target="_blank" style="color: blue;">resume</a>
+📥 Download my <a href="/files/Resume_Chin-I_Feng.pdf" target="_blank" style="color: blue;">resume</a>
 
 ---
 
