@@ -98,7 +98,7 @@ redirect_from:
 
 ---
 
-## Skills
+<div style="font-size: 28px; font-weight: bold;">Skills</div>
 
 ### Programming Languages
 
