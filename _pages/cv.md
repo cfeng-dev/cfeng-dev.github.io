@@ -100,7 +100,7 @@ redirect_from:
 
 <div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Skills</div>
 
-<strong>Programming Languages</strong>
+## Programming Languages
 
 -   JavaScript
 -   Python
