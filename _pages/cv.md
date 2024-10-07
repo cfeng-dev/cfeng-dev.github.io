@@ -131,3 +131,14 @@ redirect_from:
 -   Chinese
 -   German
 -   English
+
+### Skills
+
+| Programming Languages | Tools & Software    | Systems & Protocols | Languages |
+| --------------------- | ------------------- | ------------------- | --------- |
+| JavaScript            | Git                 | Distributed Systems | Chinese   |
+| Python                | Unit Testing (Jest) | Embedded Systems    | German    |
+| C                     | MATLAB              | FreeRTOS            | English   |
+| C++                   | Simulink            | MQTT                |           |
+| C#                    | LTspice             | Modbus              |           |
+| Java                  | SAP                 |                     |           |
