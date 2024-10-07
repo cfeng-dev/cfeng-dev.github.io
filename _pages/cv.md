@@ -95,3 +95,39 @@ redirect_from:
     <a href="/files/Internship_certificate_hoval_cfeng.pdf" target="_blank" style="text-decoration: underline; color: blue;">See credential</a><br>
   </div>
 </div>
+
+---
+
+<div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Skills</div>
+
+#### Programming Languages
+
+-   JavaScript
+-   Python
+-   C
+-   C++
+-   C#
+-   Java
+
+#### Tools & Software
+
+-   Git
+-   Unit Testing (Jest)
+-   MATLAB
+-   Simulink
+-   LTspice
+-   SAP
+
+#### Systems & Protocols
+
+-   Distributed Systems
+-   Embedded Systems
+-   FreeRTOS
+-   MQTT
+-   Modbus
+
+#### Languages
+
+-   Chinese
+-   German
+-   English
