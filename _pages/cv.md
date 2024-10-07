@@ -100,7 +100,7 @@ redirect_from:
 
 <div style="margin-bottom: 20px; font-size: 28px; font-weight: bold;">Skills</div>
 
-#### Programming Languages
+### Programming Languages
 
 -   JavaScript
 -   Python
@@ -109,7 +109,7 @@ redirect_from:
 -   C#
 -   Java
 
-#### Tools & Software
+### Tools & Software
 
 -   Git
 -   Unit Testing (Jest)
@@ -118,7 +118,7 @@ redirect_from:
 -   LTspice
 -   SAP
 
-#### Systems & Protocols
+### Systems & Protocols
 
 -   Distributed Systems
 -   Embedded Systems
@@ -126,7 +126,7 @@ redirect_from:
 -   MQTT
 -   Modbus
 
-#### Languages
+### Languages
 
 -   Chinese
 -   German
