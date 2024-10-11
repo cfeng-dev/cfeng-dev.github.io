@@ -23,7 +23,8 @@ redirect_from:
     <ul style="margin-top: 20px; padding-left: 20px; list-style-position: outside;">
       <li><span style="position: relative; left: -5px;">Implemented a neural network (LSTM using PyTorch), a decision tree model (XGBoost), and a statistical model (ARIMA) to forecast electricity consumption at Fondium's forming facility in Singen, Germany</span></li>
       <li><span style="position: relative; left: -5px;">Processed raw data with Pandas and NumPy to enable efficient model training with Scikit-learn, reducing training time by 40% while maintaining the same prediction accuracy</span></li>
-      <li><span style="position: relative; left: -5px;">Developed an algorithm that reduced electricity costs in production by an average of 5.48%</span></li>
+      <li><span style="position: relative; left: -5px;">Developed an algorithm that improved production planning and reduced electricity costs by 5.48%, by
+      shifting output from high to low electricity pricing periods</span></li>
       <li><span style="position: relative; left: -5px;">Optimized models through hyperparameter tuning and evaluated them using performance metrics (MAE, RMSE, R²) to ensure the best prediction accuracy</span></li>
     </ul>
     <strong>Skills:</strong> Python · PyTorch · XGBoost · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Statsmodels · Machine Learning · Deep Learning · Data Processing · Correlation Analysis · Hypothesis Testing · Hyperparameter Tuning
