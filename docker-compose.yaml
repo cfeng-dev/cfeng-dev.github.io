@@ -6,6 +6,4 @@ services:
     ports: [ 4000:4000 ]
     user: 1000:1000
     environment: [JEKYLL_ENV=docker]
-    command: >
-      /bin/sh -c "echo 'url: http://localhost:4000' > _config_local.yml &&
-                  jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_local.yml"
+    command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_local.yml
