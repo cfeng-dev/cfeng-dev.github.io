@@ -1,0 +1,76 @@
+/* ===== CV Page Styles ===== */
+
+/* Section titles */
+.cv-section-title {
+  margin-bottom: 20px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+/* Experience/Education/Certifications block */
+.cv-experience {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.cv-logo {
+  width: 70px;
+  margin-right: 10px;
+}
+
+/* Institution/company link */
+.institution-link {
+  text-decoration: none !important;
+  color: #000; /* Light mode */
+  border-bottom: none;
+  transition: border-bottom 0.3s ease-in-out;
+}
+.institution-link:hover {
+  border-bottom: 1px solid #000;
+}
+[data-theme='dark'] .institution-link {
+  color: #fff; /* Dark mode */
+}
+[data-theme='dark'] .institution-link:hover {
+  border-bottom: 1px solid #fff;
+}
+
+/* Date/location text */
+.cv-date,
+.cv-location {
+  font-size: 0.9em;
+  color: gray;
+}
+[data-theme='dark'] .cv-date,
+[data-theme='dark'] .cv-location {
+  color: #ccc;
+}
+
+/* Bullet list styling */
+.cv-list {
+  margin-top: 20px;
+  padding-left: 20px;
+  list-style-position: outside;
+}
+.cv-list li {
+  position: relative;
+  left: -5px;
+}
+
+/* Download resume link */
+.cv-resume-link {
+  color: #52adc8;
+}
+[data-theme='dark'] .cv-resume-link {
+  color: #0ea1c5;
+}
+
+/* Credential link */
+.credential-link {
+  text-decoration: underline;
+  color: #52adc8;
+}
+[data-theme='dark'] .credential-link {
+  color: #0ea1c5;
+}
