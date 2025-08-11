@@ -1,27 +1,27 @@
 var addressPoints = [
   [
-    "Vergleich Ogg Vorbis und AAC<br />Hochschule Konstanz, Fakult\u00e4t Elektrotechnik und Informationstechnik; Konstanz, Deutschland",
+    "Edge Gateway and IoT Platform<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
     47.659216,
     9.1750718
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Precision Time Protocol (PTP)<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Comparison of Ogg Vorbis and AAC<br />Hochschule Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Deutschland",
+    47.659216,
+    9.1750718
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Embedded Systems \u2013 Radar Scanner Reference Box<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Power Steering: Comfort in Vehicle Control<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
   ]
 ];
