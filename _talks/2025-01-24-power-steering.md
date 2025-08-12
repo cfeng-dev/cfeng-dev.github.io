@@ -10,6 +10,8 @@ location: "Konstanz, Germany"
 
 Presentation as part of the *Driver Assistance Systems* module, given as a graded oral exam, on the concept, history, and technology of power steering systems in vehicles. 
 
-The presentation covered the evolution from manual steering to hydraulic (HPS) and electronic (EPS) power steering, comparing their performance and integration into modern driver assistance systems. It was given in German. The presentation was given in German.
+The presentation covered the evolution from manual steering to hydraulic (HPS) and electronic (EPS) power steering, comparing their performance and integration into modern driver assistance systems. It was given in German. 
 
-📄 [Download presentation]({{ "/files/presentations/power-steering_presentation.pdf" | relative_url }})
+The presentation was given in German.
+
+📥 Download the [presentation]({{ "/files/presentations/power-steering_presentation.pdf" | relative_url }})

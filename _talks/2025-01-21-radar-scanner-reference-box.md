@@ -14,4 +14,4 @@ The project, conducted in cooperation between [HTWG Konstanz](https://www.htwg-k
 
 My responsibility in the project was **software development for sensor data collection**, including IMU data processing, GPS data processing, GPS data verification, and combined IMU and GPS data collection. This involved implementing real-time data synchronization via FreeRTOS tasks, validating GPS messages, transmitting data to the PC, and integrating the data streams for further processing and visualization.  
 
-📄 [Download presentation]({{ "/files/presentations/ES_BRT.pdf" | relative_url }})
+📥 Download the [presentation]({{ "/files/presentations/ES_BRT.pdf" | relative_url }})
