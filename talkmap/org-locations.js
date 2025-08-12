@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Instagram vs. BeReal<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
+  ],
+  [
     "Edge Gateway and IoT Platform<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
     47.659216,
     9.1750718
@@ -21,6 +26,26 @@ var addressPoints = [
   ],
   [
     "Power Steering: Comfort in Vehicle Control<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
+  ],
+  [
+    "Comparison of ARIMA, LSTM, and XGBoost for Power Consumption Forecasting<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
+  ],
+  [
+    "IATF 16949: Ensuring Quality in the Automotive Industry<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
+  ],
+  [
+    "Systems Modeling Language (SysML)<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
+  ],
+  [
+    "Internship at Hoval AG<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
     47.659216,
     9.1750718
   ]
