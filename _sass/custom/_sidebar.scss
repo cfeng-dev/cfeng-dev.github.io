@@ -1,0 +1,7 @@
+/* Limit the width of the author bio text to enforce line breaks */
+@media (min-width: 1024px) {
+    .author__bio {
+        max-width: 180px;
+        word-break: break-word;
+    }
+}

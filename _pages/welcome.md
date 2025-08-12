@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-This is my new homepage.  
-Here you can find my CV, projects, and blog posts.
+This is my homepage, where I share my CV, portfolio projects, and presentations.
 
-Feel free to explore!
+Have a look around!
