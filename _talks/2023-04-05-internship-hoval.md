@@ -16,4 +16,4 @@ The presentation also described the company's background, its role in the enviro
 
 The presentation was given in German.
 
-📥 Download the [presentation]({{ "/files/presentations/PSS_presentation.pdf" | relative_url }})
+📥 Download the [presentation](/files/presentations/PSS_presentation.pdf)

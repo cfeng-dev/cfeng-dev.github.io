@@ -14,4 +14,4 @@ The presentation addressed the processing and forwarding of process data via MQT
 
 The presentation was given in German.
 
-📥 Download the [presentation]({{ "/files/presentations/IIoT_EGW_PL_presentation.pdf" | relative_url }})
+📥 Download the [presentation](/files/presentations/IIoT_EGW_PL_presentation.pdf)

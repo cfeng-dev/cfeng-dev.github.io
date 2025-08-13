@@ -14,4 +14,4 @@ The presentation introduced the history, technology, and user base of both platf
 
 The presentation was given in German.
 
-📥 Download the [presentation]({{ "/files/presentations/Instagram_vs_BeReal.pdf" | relative_url }})
+📥 Download the [presentation](/files/presentations/Instagram_vs_BeReal.pdf)

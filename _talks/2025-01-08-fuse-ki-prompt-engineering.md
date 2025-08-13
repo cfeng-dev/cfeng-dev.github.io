@@ -14,4 +14,4 @@ Based on a peer-reviewed conference paper, the talk explored the fundamentals of
 
 The presentation was given in English.
 
-📥 Download the [presentation]({{ "/files/presentations/conference_paper8.pdf" | relative_url }})
+📥 Download the [presentation](/files/presentations/conference_paper8.pdf)

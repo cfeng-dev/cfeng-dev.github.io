@@ -16,4 +16,4 @@ Results showed that **XGBoost** and **LSTM** achieved the highest prediction acc
 
 The presentation was given in German.
 
-📥 Download the [presentation]({{ "/files/presentations/bachelor_thesis_defense.pdf" | relative_url }})
+📥 Download the [presentation](/files/presentations/bachelor_thesis_defense.pdf)

@@ -14,4 +14,4 @@ The presentation covered the evolution from manual steering to hydraulic (HPS) a
 
 The presentation was given in German.
 
-📥 Download the [presentation]({{ "/files/presentations/power-steering_presentation.pdf" | relative_url }})
+📥 Download the [presentation](/files/presentations/power-steering_presentation.pdf)
