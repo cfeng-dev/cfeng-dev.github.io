@@ -1,0 +1,11 @@
+/* Dark Reader fix: remove thick black gap above the footer on short pages */
+
+/* Cover body background on short pages */
+html[data-darkreader-scheme="dark"] #main {
+  min-height: 90vh !important; 
+}
+
+/* Keep footer flush with content */
+html[data-darkreader-scheme="dark"] .page__footer {
+  margin-top: 0 !important;
+}
