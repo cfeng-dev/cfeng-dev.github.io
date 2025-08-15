@@ -7,7 +7,7 @@ redirect_from:
     - /resume
 ---
 
-📥 Download my <a href="/files/Resume_Chin-I_Feng.pdf" target="_blank" class="cv-resume-link">resume</a>
+📥 Download my <a href="/files/cv/Resume_Chin-I_Feng.pdf" target="_blank" class="cv-resume-link">resume</a>
 
 ---
 
@@ -93,7 +93,7 @@ redirect_from:
     <strong>Bachelor's degree certificate</strong><br>
     <a href="https://www.htwg-konstanz.de/en/" target="_blank" class="institution-link">HTWG Konstanz</a><br>
     <span class="cv-date">Issued Oct 2024 · No Expiration Date</span><br>
-    <a href="/files/Bachelor_degree_certificate_cfeng.pdf" target="_blank" class="credential-link">See credential</a><br>
+    <a href="/files/cv/Bachelor_degree_certificate_cfeng.pdf" target="_blank" class="credential-link">See credential</a><br>
   </div>
 </div>
 
@@ -103,7 +103,7 @@ redirect_from:
     <strong>Internship certificate</strong><br>
     <a href="https://www.hoval.com/en/" target="_blank" class="institution-link">Hoval</a><br>
     <span class="cv-date">Issued Feb 2023 · No Expiration Date</span><br>
-    <a href="/files/Internship_certificate_hoval_cfeng.pdf" target="_blank" class="credential-link">See credential</a><br>
+    <a href="/files/cv/Internship_certificate_hoval_cfeng.pdf" target="_blank" class="credential-link">See credential</a><br>
   </div>
 </div>
 
@@ -111,7 +111,10 @@ redirect_from:
 
 <div class="cv-section-title">Skills</div>
 
-- **Programming Languages:** JavaScript, Python, C, C++, C#, Java
-- **Tools & Software:** Git, Unit Testing (Jest), MATLAB, Simulink, LTspice, SAP
-- **Systems & Protocols:** Distributed Systems, Embedded Systems, FreeRTOS, MQTT, Modbus
-- **Languages:** Chinese, German, English
+- **Programming Languages:** JavaScript, Python, C, C++, C#, Java  
+- **Embedded Hardware:** Raspberry Pi, STM32, Arduino  
+- **Cloud & IoT:** Azure, ThingsBoard, Node-RED, Grafana, InfluxDB  
+- **Systems & Protocols:** Embedded Systems, FreeRTOS, MQTT, Modbus, I²C, UART  
+- **Tools:** Git, Docker, Unit Testing (Jest)  
+- **Software:** MATLAB, Simulink, LTspice, EMPro  
+- **Languages:** Chinese (native), German (fluent), English (intermediate)
