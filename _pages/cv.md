@@ -117,4 +117,4 @@ redirect_from:
 - **Systems & Protocols:** Embedded Systems, FreeRTOS, MQTT, Modbus, I²C, UART  
 - **Tools:** Git, Docker, Unit Testing (Jest)  
 - **Software:** MATLAB, Simulink, LTspice, EMPro  
-- **Languages:** Chinese (native), German (fluent), English (intermediate)
+- **Languages:** Chinese (native), German (fluent), English (upper-intermediate)

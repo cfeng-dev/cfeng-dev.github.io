@@ -1,12 +1,12 @@
 ---
-title: "Gartenparty 2025 – Event Website"
+title: "Gartenparty 2025"
 excerpt: "Event website for a garden party, featuring automated RSVPs, dual-language UI (EN/DE), and Google Maps.<br/><img src='/images/portfolio/gartenparty2025.png'>"
 collection: portfolio
 date: 2025-06-06
 ---
 
 ## Overview
-In 2025, I developed a **lightweight event website** to streamline the organization of a garden party with **30+ guests**.  
+In 2025, I developed a **lightweight event website** to simplify the organization of a garden party with **30+ guests**.  
 The goal was to automate RSVPs, reduce manual coordination, and provide all essential details (location, time, notes) in one central place.  
 → [**Live Website**](https://gartenparty2025.netlify.app)  
 → [**View Source Code on GitHub**](https://github.com/cfeng-dev/GartenParty2025)
