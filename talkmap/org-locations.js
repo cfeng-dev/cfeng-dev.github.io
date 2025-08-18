@@ -10,6 +10,11 @@ var addressPoints = [
     9.1750718
   ],
   [
+    "Advanced Message Queuing Protocol (AMQP)<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
+    47.659216,
+    9.1750718
+  ],
+  [
     "Precision Time Protocol (PTP)<br />HTWG Konstanz, Department of Electrical Engineering and Information Technology; Konstanz, Germany",
     47.659216,
     9.1750718
