@@ -9,6 +9,13 @@ html[data-theme="dark"] .greedy-nav .visible-links a:before {
 }
 
 /* Adjust left margin for the first navigation link after the site title ("About") */
-.greedy-nav .visible-links li:nth-child(2) a {
-  margin-left: 3.15rem;
+@media (min-width: 1025px) {
+  .greedy-nav .visible-links li:nth-child(2) a {
+    margin-left: 3.15rem;
+  }
+}
+@media (min-width: 900px) and (max-width: 1024px) {
+  .greedy-nav .visible-links li:nth-child(2) a {
+    margin-left: -1rem;
+  }
 }
